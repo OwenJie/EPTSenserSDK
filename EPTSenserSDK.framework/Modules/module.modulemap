@@ -1,0 +1,6 @@
+framework module EPTSenserSDK {
+  umbrella header "EPTSenserSDK.h"
+
+  export *
+  module * { export * }
+}
