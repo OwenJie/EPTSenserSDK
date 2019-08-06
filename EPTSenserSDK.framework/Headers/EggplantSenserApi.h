@@ -26,6 +26,16 @@
  */
 - (void)eggplantSenserTvDisconnected;
 
+/**
+ tv进入课程
+ */
+- (void)eggplantSenserTvBeginDance;
+
+/**
+ tv结束课程
+ */
+- (void)eggplantSenserTvEndDance;
+
 @end
 
 @interface EggplantSenserApi : NSObject
